@@ -1,0 +1,1 @@
+Hadoop is for storing and process large data in parallel process in distributed pfile system with different varicity.
